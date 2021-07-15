@@ -9,7 +9,7 @@ conceitos de HTML e também CSS
 E por último estou aprendendo alguns conceitos de uso do prórpio Git Hub!!
 
 ## Layout
-<img width="450" heigth="500" src="src/assets/image1.png"> 
+<img width="450" heigth="500" src="src/assets/image1.PNG"> 
 
 ## Tecnologias utilizadas
 Foram usadas apenas estruturação e desenvolvimento de linguagens e ferramenetas para Front-End

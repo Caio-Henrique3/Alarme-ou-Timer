@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color: #ffa600;
+    padding: 15px 30px;
+    font-family: "Lucida Console";
+}
+
+.container{
+    border: 8px solid white;
+    margin-top: 250px;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.button1 {
+    padding: 10px 40px;
+    background-color: #ffa600; 
+    color: black; 
+    border: 2px solid white;
+    font-size: 20px;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    margin-top: 20px;
+}
+.button1:hover {
+    background-color: #4CAF50;
+    color: white;
+} 
+
+.display{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}

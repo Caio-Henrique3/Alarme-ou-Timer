@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="estilo.css">
+        <title>Contagem regresiva</title>
+    </head>
+   <body>
+        <audio id="sound" src="alarme.mp3"></audio>
+
+        <div class="container">
+            <h2>Horas
+                <select class="custom-select" name="hora" id="hora"></select>
+            </h2>
+
+            <h2>Minutos
+                <select name="min" id="min"></select>
+            </h2>
+    
+            <h2>Segundos
+            <select name="seg" id="seg"></select>
+            </h2>
+    
+            <button id="comecar" class="button1">Iniciar</button>
+            
+            <div id="display" class="display">
+                <h1></h1>
+            </div>
+            
+        </div>
+
+        <script src="funcoes.js"></script>          
+    </body>
+</html>
